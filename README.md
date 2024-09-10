@@ -32,9 +32,7 @@ The project uses a radio API to fetch and play radio stations. You can change th
 
 ## Demo
 
-\`\`\`bash
   https://harkone.com.ng/online-radio
-\`\`\`
 
 ## Contributing
 
