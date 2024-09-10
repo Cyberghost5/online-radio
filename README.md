@@ -30,6 +30,12 @@ That's it! The radio stations should now start streaming directly from the brows
 
 The project uses a radio API to fetch and play radio stations. You can change the list of stations or their nationality by modifying the \`stations\` object in the JavaScript file.
 
+## Demo
+
+\`\`\`bash
+  https://harkone.com.ng/online-radio
+\`\`\`
+
 ## Contributing
 
 Feel free to fork this repository and submit a pull request if you have improvements or suggestions.
